@@ -1,0 +1,4 @@
+langgraph
+langchain
+yfinance
+python-dotenv
